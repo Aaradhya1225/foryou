@@ -1,24 +1,27 @@
-h1{
-    color:blue;
+h1 {
+    color: blue;
 }
 
-p[draggable="true"]
-{
-    color:rgb(105, 8, 24);
+p[draggable="true"] {
+    color: rgb(105, 8, 24);
 }
-h2{
-    color:rgb(63, 12, 70)
+
+h2 {
+    color: rgb(63, 12, 70);
 }
-p[draggable="false"]
-{
-    color:rgb(150, 60, 72)
+
+p[draggable="false"] {
+    color: rgb(150, 60, 72);
 }
-h4{
-    color:rgb(10, 110, 110);
+
+h4 {
+    color: rgb(10, 110, 110);
 }
-#main{
-    color:rgb(50, 11, 155);
+
+#main {
+    color: rgb(50, 11, 155);
 }
-.red-text{
-    color:rgb(68, 41, 6);
+
+.red-text {
+    color: rgb(68, 41, 6);
 }
